@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dannyblazer
-- 👀 I’m interested in Python and Linux system administration
+- 👀 I’m interested in Python and Systems Engineering.
 - 🌱 I’m currently learning Python Django Framework
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me https://twitter.com/Blazetrane
