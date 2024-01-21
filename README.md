@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dannyblazer
 - 👀 I’m interested in Python and Systems Engineering.
-- 🌱 I’m currently learning Python Django Framework
+- 🌱 I’m currently working with Python Django Framework
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 Reach out: nnajidanny004@gmail.com
 
