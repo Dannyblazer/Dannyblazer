@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dannyblazer
 - 👀 I’m interested in Python and Systems Engineering.
-- 🌱 I’m currently working with Python Django Framework
-- 💞️ I’m looking to collaborate on Python Projects
+- 🌱 I’m currently working with Python Django Framework & Golang
+- 💞️ I’m looking to collaborate on Python & GO Projects
 - 📫 Reach out: nnajidanny004@gmail.com
 
 <!---
