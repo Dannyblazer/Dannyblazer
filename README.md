@@ -1,38 +1,41 @@
-# Hi there, I'm Danny (Dannyblazer) 👋
+# Hi there, I'm Nnaji Daniel (@Dannyblazer) 👋
 
-I'm a **Software Engineer** specializing in full-stack backend systems, distributed services, and Web3 technologies. I build scalable applications with **Go**, **Python (Django)**, and modern web architectures.
-
----
-
-### 🚀 What I'm Up To
-* 💻 **Currently Building:** Backend architectures and web tools with **Go** & **Django**.
-* 🛠️ **Focus Areas:** Systems Engineering, API Design, and Web3.
-* 🤝 **Looking to Collaborate:** On Open-Source Go/Python tools, Fintech, and Web 3.0 projects.
-* 📫 **Reach Me:** [nnajidanny004@gmail.com](mailto:nnajidanny004@gmail.com)
+Backend & Systems Engineer with a deep interest in low-level tooling, scalable Web applications, and Web3 environments. I build performant backend systems using **Go** and **Python (Django)**, and explore decentralized apps with **Rust** and **Solana**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Tech Stack
 
-**Languages & Frameworks:**
-`Go` • `Python` • `Django` • `React` • `Node.js` • `SQL`
-
-**Databases & Infrastructure:**
-`PostgreSQL` • `Nginx` • `Docker` • `Linux (Bash/Zsh)` • `Git`
+- **Languages:** Go, Python, TypeScript, Rust, SQL
+- **Frameworks & Runtime:** Django, NestJS, Node.js
+- **Backend & Systems:** Microservices, System Design, Real-time WebSockets, Serverless
+- **DevOps & Infrastructure:** Linux (Bash/Zsh), Docker, Nginx, Git, PostgreSQL
+- **Web3 & Blockchain:** Solana, Anchor, DApps
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
+
+- ⚡ **[HotReloader](https://github.com/Dannyblazer/HotReloader)** — Go-based utility for live reloading and terminal tooling.
+- ☁️ **[serverless](https://github.com/Dannyblazer/serverless)** — Lightweight serverless implementation and cloud experimentation built in Go.
+- ♟️ **[solana-chess](https://github.com/Dannyblazer/solana-chess)** — On-chain chess logic written in Rust for the Solana ecosystem.
+- 🌐 **[solana-blog-DAPP](https://github.com/Dannyblazer/solana-blog-DAPP)** — Decentralized blog platform built on top of Solana.
+- ⏱️ **[task-manager](https://github.com/Dannyblazer/task-manager)** — Real-time task management service built with NestJS & Socket.io.
+
+---
+
+### 🤝 What I'm Open To
+- Collaborating on **Go / Systems Tools**, **Python/Django platforms**, and **Web3 infrastructure**.
+- Open-source contributions and technical discussions around backend performance and CLI development.
+
+---
+
+### 📫 Get in Touch
+- **Email:** [nnajidanny004@gmail.com](mailto:nnajidanny004@gmail.com)
+
+---
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dannyblazer&show_icons=true&theme=dark&hide_border=true" alt="Dannyblazer's GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyblazer&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="mailto:nnajidanny004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nnajidanny004%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
-  </a>
 </p>
