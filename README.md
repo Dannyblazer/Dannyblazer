@@ -1,36 +1,21 @@
-# Hi there, I'm Nnaji Daniel (@Dannyblazer) 👋
+# Hi, I'm Nnaji Daniel 👋
 
-Backend & Systems Engineer with a deep interest in low-level tooling, scalable Web applications, and Web3 environments. I build performant backend systems using **Go** and **Python (Django)**, and explore decentralized apps with **Rust** and **Solana**.
+I'm a **Backend and Systems Engineer** driven by a deep curiosity for how software works under the hood. For me, programming isn't just about shipping features—it's about understanding the mechanics of performance, efficiency, and system architecture.
 
----
+I spend most of my time building reliable backend systems and low-level developer tools. My core work revolves around **Go** and **Python (Django)** for backend services and Web APIs, but my technical interest frequently pushes me closer to the metal. Whether it's writing CLI utilities, experimenting with live-reloading tools, or diving into system design, I enjoy taking complex technical problems apart and building clean, minimal solutions.
 
-### 🛠️ Core Tech Stack
-
-- **Languages:** Go, Python, TypeScript, Rust, SQL
-- **Frameworks & Runtime:** Django, NestJS, Node.js
-- **Backend & Systems:** Microservices, System Design, Real-time WebSockets, Serverless
-- **DevOps & Infrastructure:** Linux (Bash/Zsh), Docker, Nginx, Git, PostgreSQL
-- **Web3 & Blockchain:** Solana, Anchor, DApps
+Beyond traditional web architecture, I am fascinated by decentralized infrastructure. I actively explore Web3 ecosystems—writing on-chain program logic with **Rust** on **Solana** and looking at how distributed systems can reshape modern software ownership and data flow.
 
 ---
 
-### 📌 Featured Projects
-
-- ⚡ **[HotReloader](https://github.com/Dannyblazer/HotReloader)** — Go-based utility for live reloading and terminal tooling.
-- ☁️ **[serverless](https://github.com/Dannyblazer/serverless)** — Lightweight serverless implementation and cloud experimentation built in Go.
-- ♟️ **[solana-chess](https://github.com/Dannyblazer/solana-chess)** — On-chain chess logic written in Rust for the Solana ecosystem.
-- 🌐 **[solana-blog-DAPP](https://github.com/Dannyblazer/solana-blog-DAPP)** — Decentralized blog platform built on top of Solana.
-- ⏱️ **[task-manager](https://github.com/Dannyblazer/task-manager)** — Real-time task management service built with NestJS & Socket.io.
+### 💭 Engineering Philosophy
+* **Simplicity over Premature Complexity:** A straightforward, readable solution in Go or Python beats a heavily over-engineered architecture every time.
+* **Tooling Matters:** Understanding standard Linux environments, shell automation (Bash/Zsh), containerization, and developer tooling directly translates to better code and faster execution.
+* **Continuous Depth:** I prefer going deep into core concepts—memory, execution flow, protocol mechanics—rather than staying on the surface of changing trends.
 
 ---
 
-### 🤝 What I'm Open To
-- Collaborating on **Go / Systems Tools**, **Python/Django platforms**, and **Web3 infrastructure**.
-- Open-source contributions and technical discussions around backend performance and CLI development.
+### 📬 Connect with Me
+I'm always open to discussing backend architecture, open-source tooling, or Web3 projects.
 
----
-
-### 📫 Get in Touch
-- **Email:** [nnajidanny004@gmail.com](mailto:nnajidanny004@gmail.com)
-
----
+* **Email:** [nnajidanny004@gmail.com](mailto:nnajidanny004@gmail.com)
