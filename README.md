@@ -36,6 +36,6 @@ Backend & Systems Engineer with a deep interest in low-level tooling, scalable W
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Dannyblazer&show_icons=true&theme=dark&hide_border=true" alt="Dannyblazer's GitHub Stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Dannyblazer&theme=dark&hide_border=true" alt="Streak Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyblazer&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </p>
