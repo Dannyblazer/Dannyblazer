@@ -1,6 +1,6 @@
 # Hi, I'm Nnaji Daniel 👋
 
-I'm a **Backend and Systems Engineer** driven by a deep curiosity for how software works under the hood. For me, programming isn't just about shipping features—it's about understanding the mechanics of performance, efficiency, and system architecture.
+I'm a **Backend and Systems Engineer** driven by a deep curiosity for how software works under the hood. For me, programming isn't just about shipping features but about understanding the mechanics of performance, efficiency, and system architecture.
 
 I spend most of my time building reliable backend systems and low-level developer tools. My core work revolves around **Go** and **Python (Django)** for backend services and Web APIs, but my technical interest frequently pushes me closer to the metal. Whether it's writing CLI utilities, experimenting with live-reloading tools, or diving into system design, I enjoy taking complex technical problems apart and building clean, minimal solutions.
 
