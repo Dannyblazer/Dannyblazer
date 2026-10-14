@@ -1,4 +1,4 @@
-# Hi, I'm Nnaji Daniel 👋
+# Hi, Nnaji Daniel Here 👋
 
 I'm a **Backend and Systems Engineer** driven by a deep curiosity for how software works under the hood. For me, programming isn't just about shipping features but about understanding the mechanics of performance, efficiency, and system architecture.
 
